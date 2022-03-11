@@ -2,8 +2,8 @@
 This project is meant for those who want to change the format of an image or those who wish to resize their image. This project is awesome because it uses Command Line Interface, which means you can now convert image formats and resize images using command prompt which makes you look cool! You can blow other people's mind by resizing images using the command prompt.
 
 ## Team Members
-1) Jyothish T R [Jyothish T R](https://github.com/Mr3lueSky)
-2) Jyothilakshmi [Jyothilakshmi](https://github.com/jyothigeci)
+1) Jyothish T R [link](https://github.com/Mr3lueSky)
+2) Jyothilakshmi [link](https://github.com/jyothigeci)
 
 ## TEAM ID
 Python 12
