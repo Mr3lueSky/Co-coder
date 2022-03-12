@@ -17,15 +17,15 @@ First we need to install python, To install python click [here](https://www.pyth
 Then we have to install Typer module and Pillow module.
 
 To install Typer module type the following command in bash
-'''
+```
 pip install typer
-'''
+```
 
 To install Pillow module use the following command in bash
-'''
+```
 python3 -m pip install --upgrade pip
 python3 -m pip install --upgrade Pillow
-'''
+```
 
 If you have issues installing any of the modules refer to these documentations
 [Pillow documentation](https://pillow.readthedocs.io/en/stable/installation.html)
@@ -38,9 +38,9 @@ If you have issues installing any of the modules refer to these documentations
 After installing the required modules,
 Open command prompt and navigate to the folder where the python file is saved.
 then run the follow command
-'''
+```
 python3 main.py
-'''
+```
 
 ## How it works
 Step 1) Input the directory where your image is situated.
